@@ -1,0 +1,20 @@
+# Arquivos de configuração sensíveis
+.env
+config.php
+
+# Diretórios gerados automaticamente
+/vendor
+/node_modules
+
+# Logs e arquivos temporários
+*.log
+/tmp/
+*.cache
+
+# Configurações do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Configurações específicas de IDEs/editores
+.idea/
+.vscode/
